@@ -1,3 +1,5 @@
 title: GitHub Learning
 description: Documenting the journey of learning to use GitHub and related tools
-theme: jekyll-theme-slate
+theme: minima
+plugins:
+  - jekyll-feed
