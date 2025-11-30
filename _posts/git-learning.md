@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git Learning Note"
-date:   2025-11-30 20:00:00 +0800
+date:   2025-11-30 22:30
 categories: git learning
 ---
 
