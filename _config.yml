@@ -1,10 +1,10 @@
 title: GitHub Learning
 description: Documenting the journey of learning to use GitHub and related tools
 theme: minima
-baseurl: "/github-learning" # 仓库名称，非常重要，否则 CSS 和链接会失效
-url: "https://ljxme.github.io" # GitHub Pages 域名
-future: true # 允许发布时间在未来的文章（防止时区问题导致文章不显示）
-timezone: Asia/Shanghai # 设置时区为北京时间
+baseurl: "/github-learning"
+url: "https://ljxme.github.io"
+future: true
+timezone: Asia/Shanghai
 
 plugins:
   - jekyll-feed
